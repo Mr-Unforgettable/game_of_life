@@ -75,7 +75,7 @@ function Game() {
 
         setCells(makeCells());
     }
-    
+
     function handleIntervalChange(event) {
         setIntervalTime(event.target.value);
     }
@@ -150,7 +150,7 @@ function Game() {
                 board.current[y][x] = Math.random() >= 0.5;
             }
         }
-    
+
         setCells(makeCells());
     }
 
