@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './index.css';
-import Game1 from './components/Game1';
+import Game from './components/Game';
 
 class App extends Component {
 
@@ -9,7 +9,7 @@ class App extends Component {
         return (
             <div className="App">
                 <h1>Conway's Game of Life</h1>
-                <Game1 />
+                <Game />
             </div>
         );
     }
