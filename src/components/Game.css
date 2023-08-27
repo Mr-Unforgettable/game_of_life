@@ -1,3 +1,8 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .Board {
     position: relative;
     margin: 0 auto;
@@ -13,6 +18,9 @@
 
 .controls {
     margin-top: 20px;
+    margin-right: 500px;
+    margin-left: 500px;
+    align-content: center;
 }
 
 .button {
