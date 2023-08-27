@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/game_of_life/static/css/main.6c50514b.css",
+    "main.js": "/game_of_life/static/js/main.3e018a53.js",
+    "index.html": "/game_of_life/index.html",
+    "main.6c50514b.css.map": "/game_of_life/static/css/main.6c50514b.css.map",
+    "main.3e018a53.js.map": "/game_of_life/static/js/main.3e018a53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c50514b.css",
+    "static/js/main.3e018a53.js"
+  ]
+}
